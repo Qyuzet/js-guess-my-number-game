@@ -1,6 +1,6 @@
 # Guess My Number Game
 
-This repository contains a simple number guessing game built with HTML, CSS, and JavaScript. The objective of the game is to guess a randomly generated secret number between 1 and 20. [TRY NOW!](https://qyuzet.github.io/js-guess-my-number-game)
+This repository contains a simple number guessing game built with HTML, CSS, and JavaScript. The objective of the game is to guess a randomly generated secret number between 1 and 20. [TRY NOW!](https://qyuzet.github.io/js-guess-my-number-game).
 
 ## Features
 
